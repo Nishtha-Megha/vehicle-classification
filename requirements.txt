@@ -1,4 +1,4 @@
 streamlit
 numpy
 pandas
-tensorflow
+tensorflow-cpu
